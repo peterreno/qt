@@ -1,4 +1,4 @@
 qt
 ==
 
-My-Qt
+My-Qt for Lear the qt source code
